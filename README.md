@@ -1,1 +1,1 @@
-# Titanic-Full-Exploratory-Data-Analysis
+# Titanic Full Exploratory Data Analysis
